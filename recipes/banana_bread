@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midwest Salisbury Steak Recipe</title>
+</head>
+<body>
+    <h1>Banana Banana Bread</h1>
+    <img src="https://www.allrecipes.com/thmb/tlZcB1F8f5RmDEAEgmtnq66nNp4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/banana-banana-bread_articlebanana_banana-2000-79d74827e4ce4b28807e08f41d9bdf10.jpg"
+        alt="image of banana bread">
+    <p>Whip up a delicious loaf of banana banana bread in minutes!</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Flour</li>
+        <li>Baking Soda</li>
+        <li>Salt</li>
+        <li>Butter</li>
+        <li>Brown Sugar</li>
+        <li>Eggs</li>
+        <li>1/4 teaspoon ground black pepper</li>
+    </ul>
+        <h2>Directions</h2>
+    <ol>
+        <li>Combine the dry ingredients in one bowl.</li>
+        <li>Beat the butter and sugar in another bowl. Add the eggs and mashed bananas.</li>
+        <li>Add the wet mixture to the dry mixture.</li>
+        <li>Pour the batter into a loaf pan and bake in a preheated oven.</li>
+    </ol>
+</body>
+</html>
